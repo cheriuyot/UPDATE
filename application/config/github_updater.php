@@ -21,7 +21,7 @@ $config['github_branch'] = 'master';
  * NOTE: You should only need to set this initially it will be
  * automatically set by the library after subsequent updates.
  */
-$config['current_commit'] = 'ecd0d1370844ebe01f98e5d8c2b97c9d4d0568b1';
+$config['current_commit'] = '51820140a0a2d5d41aa26e8c3806f8085e558251';
 
 /**
  * A list of files or folders to never perform an update on.
